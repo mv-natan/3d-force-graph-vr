@@ -44,7 +44,7 @@
   "dependencies": {
     "accessor-fn": "1",
     "aframe": "github:aframevr/aframe#16bd0f6",
-    "aframe-extras": "^7.2",
+    "aframe-extras": "github:mv-natan/aframe-extras:master",
     "aframe-forcegraph-component": "3",
     "kapsule": "^1.16",
     "polished": "4"
